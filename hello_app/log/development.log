@@ -1,0 +1,35 @@
+Started GET "/" for 127.0.0.1 at 2019-03-14 10:16:30 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/ryonakamura/.anyenv/envs/rbenv/versions/2.6.0-rc1/lib/ruby/gems/2.6.0/gems/railties-5.1.6/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/ryonakamura/.anyenv/envs/rbenv/versions/2.6.0-rc1/lib/ruby/gems/2.6.0/gems/railties-5.1.6/lib/rails/templates/rails/welcome/index.html.erb (2.7ms)
+Completed 200 OK in 219ms (Views: 6.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-03-15 10:26:33 +0900
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 285ms (Views: 6.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-03-15 10:28:20 +0900
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-03-15 10:28:52 +0900
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 2ms (Views: 1.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-03-15 10:44:18 +0900
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 4ms (Views: 2.6ms)
+
+
